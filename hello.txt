@@ -4,3 +4,4 @@ hello,Git!
 hello,Git!
 hello,Git!
 在网页端修改信息1，目的是为了演示本地从GitHub远程库上拉取最新的代码
+在网页端修改信息2，目的是为了演示本地从GitHub远程库上拉取最新的代码  fetch命令
