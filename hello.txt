@@ -13,3 +13,4 @@ hello,Git!
 在网页上修改信息，验证SSH方式。
 本地修改，验证SSH方式  push
 在网页上修改信息，验证SSH_Bash
+在网页上修改信息2，验证SSH_Bash
